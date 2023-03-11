@@ -1,1 +1,2 @@
-console.log("Este es un viejo fichero");
+console.log("Este es fichero es nuevo");
+>>>>>>> main

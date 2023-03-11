@@ -1,1 +1,1 @@
-console.log("Este es un nuevo fichero");
+console.log("Este es fichero es nuevo");
